@@ -12,3 +12,4 @@ Practical application of a basic widgets.
 
 `get_weather.py` requests weather by city code.
 
+![](2.gif)
