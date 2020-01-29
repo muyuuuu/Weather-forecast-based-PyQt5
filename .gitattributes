@@ -1,0 +1,3 @@
+*.json linguist-language=Python
+*.gif linguist-language=Python
+*.md linguist-language=Python

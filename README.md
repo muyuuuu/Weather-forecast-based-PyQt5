@@ -4,7 +4,7 @@ Practical application of a basic widgets.
 
 `weather.py` is the same as `weather1.py`, except that `weather1.py` adds split window technology, which automatically drags the sub-window size.
 
-`python weather1.py` can run it.
+`python weather1.py` can run it. (python version < 3.8).
 
 `最新_city.json` gives the code of the city.
 
